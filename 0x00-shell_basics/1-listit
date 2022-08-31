@@ -1,2 +1,2 @@
-#!/bash/bin
-echo 0-current_working_directory README.md  
+#!/bin/bash
+echo 0-current_working_directory README.md 
