@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $USER
+echo 'obase=10; ibase=2; 123' | bc
