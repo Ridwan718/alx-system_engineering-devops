@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $USER
+export TRUEKNOWLEDGE=200 | echo $((200+128))
